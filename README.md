@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Our Team</h1>
-        <img id="img 1" src="IMG-20250620-WA0043.jpg" alt="CEO"> 
+        <img id="img 1" src="Img/IMG_20250620_WA0043.jpg"/> 
 
     </body>
     
