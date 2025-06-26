@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Our Team</h1>
-        <img id="img 1" src="Img/IMG_20250620_WA0043.jpg"/> 
+        <img id="img 1" src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/IMG-20250620-WA0043.jpg"/> 
 
     </body>
     
