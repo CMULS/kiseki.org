@@ -4,10 +4,13 @@
     <head>
         <style>
             #img {
-                max-width: 60%;
-                display: inline-block;
-                border-radius: 50%;
-            }
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 50%;
+            display: block;
+            margin: 20px auto;
+        } 
 
         </style>
     </head>
