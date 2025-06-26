@@ -1,7 +1,6 @@
-
+   
 <html>
-    <title>Kiseki Staff</title>
-    <head>
+    <title>Kiseki Staff</title>hggggggggb
         <style>
            body {
             margin: 0;
@@ -12,6 +11,7 @@
             overflow: hidden;
             position: fixed;
             top: 0;
+            height: 90px;
             width: 100%;
             z-index: 999;
         } 
