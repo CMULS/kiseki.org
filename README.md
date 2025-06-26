@@ -3,7 +3,7 @@
     <title>Kiseki Staff</title>
     <head>
         <style>
-            #img 1 {
+            #img {
                 max-width: 60%;
                 display: inline-block;
                 border-radius: 50%;
@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Our Team</h1>
-        <img id="img 1" src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/IMG-20250620-WA0043.jpg"/> 
+        <img id="img" src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/IMG-20250620-WA0043.jpg"/> 
 
     </body>
     
