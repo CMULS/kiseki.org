@@ -29,6 +29,8 @@
         <figure>
         <img id="img" src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/IMG-20250620-WA0043.jpg"/> 
          <figcaption>Mr Miracle Manda- Founder & CEO</figcaption>
+        <img id="img" src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/IMG_20210418_193526%20(2).jpg"/>
+        <figcaption>Mr Chibesa Mulenga- HOD ICT</figcaption>
         </figure>
 
     </body>
